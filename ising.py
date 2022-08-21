@@ -96,6 +96,8 @@ else:
         T_w = font.render(f'Temperature = {T:.2f}', True, red)
         window.blit(T_w, (20, 70))
         t += 1
+        x = ("0"*(5 - len(str(t)))) + str(t)
+        pygame.image.save(window, f"output/{x}_screenshot.png")
         relogio.tick(fps)
         pygame.display.update()
     pygame.quit()
