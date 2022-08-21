@@ -52,6 +52,6 @@ You will see the simulation above with image I provide. However, if you want sim
 
 ## Acknowledgment
 
-Thanks for Alexia Barbosa to permission to use all images in this repo.
+Thanks to Alexia Barbosa for permission to use all images in this repo.
 
 
